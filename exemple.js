@@ -8,7 +8,7 @@
 "use strict";
 
 let uNoGS = require("./index.js"),
-    unogs = new uNoGS("J5GSlgzO1gmshVDTKMZbWKkOVhV6p1RRdxhjsnSznm80SrycuV");
+    unogs = new uNoGS("token");
 
 /*unogs.listCountries(function(err, docs){
     console.log(docs);
