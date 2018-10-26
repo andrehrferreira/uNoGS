@@ -1,0 +1,23 @@
+{
+    "name": "unogs",
+    "version": "0.0.1",
+    "description": "uNoGS (unofficial Netflix online Global Search) allows anyone to easily search the global Netflix catalog.",
+    "main": "index.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andrehrferreira/uNoGS"
+    },
+    "bugs": {
+        "url": "https://github.com/andrehrferreira/uNoGS/issues"
+    },
+    "keywords": [
+        "netflix",
+        "unofficial",
+        "global search"
+    ],
+    "homepage": "http://unogs.com/",
+    "dependencies": {
+        "unirest": "^0.5.1"
+    }
+}
