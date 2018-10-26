@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+/nbproject/private/
+nbproject
+package-lock.json
