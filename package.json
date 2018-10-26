@@ -1,6 +1,6 @@
 {
     "name": "unogs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "uNoGS (unofficial Netflix online Global Search) allows anyone to easily search the global Netflix catalog.",
     "main": "index.js",
     "license": "MIT",
